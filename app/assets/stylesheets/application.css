@@ -22,12 +22,3 @@ body{
 	background-color: #404;
 	color: #fff
 }
-
-<style> 
-	body {
-			background-image: url("1.jpg");
-			background-repeat: no-repeat;
-			background-position: center right; 
-			background-size: 800px 650px;
-		 }
-</style>
